@@ -1,0 +1,17 @@
+{
+  "name": "weatherapplication",
+  "version": "1.0.0",
+  "description": "This is a weather application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nassim Karimi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.17.1"
+  }
+}
